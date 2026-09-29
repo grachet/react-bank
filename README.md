@@ -1,3 +1,5 @@
+[Try online](https://bankorama-bank.web.app/) 
+
 A Bank application in ReactJS with firebase real-time database (NoSQL). 
 
 Connect or create an account, then upload your ID card as a PDF file. A bank manager (Admin) will validate your account based on this document and allow you to add beneficiaries and transfer (fake) money. Check your balance with a history and graph visualization. You can manage accounts as an admin. If you want to delete your account, you need to upload a signed letter in PDF and be validated by a bank manager.
